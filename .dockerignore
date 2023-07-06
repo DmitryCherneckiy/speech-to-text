@@ -1,0 +1,23 @@
+# folders
+temp/*
+__pycache__/*
+__pycache__
+.venv/*
+.vscode/*
+.logs/*
+.pytest_cache/*
+.git/*
+.backups/*
+data/*
+tests/*
+pics/*
+
+# extensions
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.logs
+
+# files
+TODOs.txt

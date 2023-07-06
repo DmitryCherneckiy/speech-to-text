@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# folders
+.venv/*
+.logs/*
+
+# files
+.env
